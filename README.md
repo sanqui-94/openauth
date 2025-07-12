@@ -306,6 +306,6 @@ console.log(verified.subject)
 
 ---
 
-OpenAuth is created by the maintainers of [SST](https://sst.dev).
+OpenAuth is created by the maintainers of [SST](https://sst.dev), and this is a very.
 
 **Join our community** [Discord](https://sst.dev/discord) | [YouTube](https://www.youtube.com/c/sst-dev) | [X.com](https://x.com/SST_dev)
